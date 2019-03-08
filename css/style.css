@@ -573,7 +573,7 @@ canvas{
 	overflow: hidden;
 }
 
-.single-services:hover {
+/* .single-services:hover {
 	-webkit-transition: ease .09s;
 	-o-transition: ease .09s;
 	transition: ease .09s;
@@ -598,15 +598,15 @@ canvas{
 	-webkit-transition: .9s;
 	-o-transition: .9s;
 	transition: .9s;
-}
+} */
 
-.single-services:hover .services-content {
+/* .single-services:hover .services-content {
 	color: #000000;
-}
+} */
 
-.single-services:hover .services-content h3 {
+/* .single-services:hover .services-content h3 {
 	color: #E91E63;
-}
+} */
 
 /*--------------- Services area ends --------------*/
 
