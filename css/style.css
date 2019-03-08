@@ -573,44 +573,9 @@ canvas{
 	overflow: hidden;
 }
 
-/* .single-services:hover {
-	-webkit-transition: ease .09s;
-	-o-transition: ease .09s;
-	transition: ease .09s;
-}
-
-.single-services:hover .services-icon{
-	-webkit-transition: ease .3s;
-	-o-transition: ease .3s;
-	transition: ease .3s;
-}
-
-.single-services:hover .services-icon i {
-	-webkit-transform: rotate(360deg);
-	-ms-transform: rotate(360deg);
-	transform: rotate(360deg);
-	-webkit-transition: .9s;
-	-o-transition: .9s;
-	transition: .9s;
-}
-
-.single-services:hover {
-	-webkit-transition: .9s;
-	-o-transition: .9s;
-	transition: .9s;
-} */
-
-/* .single-services:hover .services-content {
-	color: #000000;
-} */
-
-/* .single-services:hover .services-content h3 {
-	color: #E91E63;
-} */
-
 /*--------------- Services area ends --------------*/
 
-/*-------- 8. Number area starts-----------*/
+/*-------- Number area starts-----------*/
 
 .number-area {
 	background: #E91E63;
@@ -632,7 +597,7 @@ canvas{
 
 /*--------Number area ends-----------*/
 
-/*-------------- 9. Portfolio area starts-----------*/
+/*-------------- Portfolio area starts-----------*/
 
 
 .por-text-details .col-xs-4 p {
@@ -798,6 +763,11 @@ canvas{
 
 .no-pad {
 	padding: 0;
+}
+
+.project{
+  width: 375px;
+  height: 227px;
 }
 
 /*--------------Portfolio area Ends-----------*/
