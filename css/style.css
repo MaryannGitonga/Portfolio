@@ -639,6 +639,11 @@ canvas{
 .mfp-zoom-out.mfp-removing.mfp-bg {
 	opacity: 0;
 }
+
+.por-text{
+    margin-top: -10px;
+}
+
 .por-text h2 {
 	text-transform: uppercase;
 	margin: 0;
@@ -680,7 +685,7 @@ canvas{
 	overflow: hidden;
 	top: 0;
 	left: 0;
-	padding: 3em;
+	padding-left: 2.5em;
 	text-align: left;
 }
 
@@ -717,7 +722,7 @@ canvas{
 .hovereffect .overlay:before {
 	position: absolute;
 	top: 20px;
-	right: 20px;
+	/* right: 20px; */
 	bottom: 20px;
 	left: 20px;
 	border: 1px solid #fff;
